@@ -32,4 +32,6 @@ In the notebooks folder  you  will  see  different tests that have been  tried  
 Here  is the api  specification  for  benzinga: https://github.com/Benzinga/doc-site-mintlify
 Here  is some link to  langchain explaining  how  to  use natural language  queries: https://python.langchain.com/docs/use_cases/apis
 
+# Benzinga  api  documents
+https://docs.benzinga.io/home
 
