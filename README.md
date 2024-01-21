@@ -35,3 +35,10 @@ Here  is some link to  langchain explaining  how  to  use natural language  quer
 # Benzinga  api  documents
 https://docs.benzinga.io/home
 
+# Financial Modelling Prep (FMP)
+This is a another api. Although the api documentation and the REST calls are not well documented, nor are they  uniform for  calling  them, it's free  and I  can make progress with the api. The progress is documented in the ipynb notebook. 
+## Homepage
+https://site.financialmodelingprep.com/
+
+## Developer Docs
+https://site.financialmodelingprep.com/developer/docs
