@@ -42,3 +42,6 @@ https://site.financialmodelingprep.com/
 
 ## Developer Docs
 https://site.financialmodelingprep.com/developer/docs
+
+# Tradefeeds
+Here is a link  to tradefeeds api documentation. This could be something to try: https://tradefeeds.com/historical-dividends-api/
